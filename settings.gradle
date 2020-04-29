@@ -1,0 +1,2 @@
+rootProject.name='PermissionMtj'
+include ':app'
